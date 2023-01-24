@@ -1,0 +1,4 @@
+string = "hello world"
+string_1 = "It's my first test Pratice"
+result = string + string_1
+print(result)
